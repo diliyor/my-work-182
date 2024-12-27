@@ -1,0 +1,78 @@
+body {
+    background: rgb(130,130,130);
+background: linear-gradient(124deg, rgba(130,130,130,1) 0%, rgba(138,89,89,1) 30%, rgba(130,28,28,1) 63%, rgba(255,0,0,1) 95%);
+height: 1000px;
+}
+.block {
+    width: 700px;
+    height: 700px;
+    background-color:white;
+    border-radius: 20px;
+    position: relative;
+    top: 100px;
+    left: 600px;
+}
+img {
+    border-radius: 50%;
+    position: relative;
+    top: -60px;
+    left: 250px;
+    border: 3px solid blue;
+    box-shadow: 4px 4px 15px blue;
+}
+.q1 {
+    padding-left: 90px;
+}
+h1 {
+    color: blue;
+}
+.q2 {
+    padding-left: 90px;
+}
+.block2 {
+    display: flex;
+}
+.q3 {
+    padding-left: 110px;
+}
+.q4 {
+    padding-left: 90px;
+}
+.q5 {
+    padding-left: 95px;
+}
+.q6 {
+    padding-left: 90px;
+}
+.q7 {
+    padding-left: 98px;
+}
+.q8 {
+    padding-left: 90px;
+}
+i {
+    font-size: 70px;
+    padding: 15px;
+}
+.w1 {
+    background-color: blue;
+    color: white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    padding-right: 30px;
+}
+.w2 {
+    background-color:red;
+    color: white;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    margin-left: 30px;
+}
